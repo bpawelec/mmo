@@ -1,0 +1,2 @@
+# mmo
+Miekkie metody obliczeniowe
