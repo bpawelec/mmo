@@ -1,2 +1,3 @@
 # mmo
-Miekkie metody obliczeniowe
+Miekkie metody obliczeniowe - wykrywanie raka piersi
+Projekt zaliczeniowy
